@@ -1,1 +1,3 @@
-Landing page draft for DDD Records (html/css)
+# Landing page in html/css
+
+A one-page draft for DDD Records
